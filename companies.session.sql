@@ -22,6 +22,8 @@
 -- ('BMW',11800,'Germany'),('Tulpar',1111800,'Kyrgyzstan');
 
 -- UPDATE cars set country = 'Germany' where name = 'MB';
+
+-- DELETE FROM cars where price <1000;
 -- SELECT * FROM cars;
 
 
